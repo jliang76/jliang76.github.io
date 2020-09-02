@@ -1,0 +1,9 @@
+cd 'Dropbox (GaTech)/Personal/GeorgiaTech/Fall 2018/jemdoc/jemdoc-tutorial-master/'
+
+python2.7 jemdoc.py publication.jemdoc
+
+python2.7 jemdoc.py index.jemdoc
+
+python2.7 jemdoc.py teaching.jemdoc
+
+python2.7 jemdoc.py course.jemdoc
