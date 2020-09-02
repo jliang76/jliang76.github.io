@@ -1,0 +1,91 @@
+# jemdoc: menu{MENU}{course.html}
+= Courses
+
+== Optimization
+
+- ISYE 6661 Linear Optimization
+
+- ISYE 6662 Discrete Optimization
+
+- ISYE 6663 Nonlinear Optimization
+
+- ISYE 7683 Advanced Nonlinear Programming
+
+- ISYE 8813 Modern Convex Optimization
+
+- ISYE 8813 Continuous Optimization Algorithms
+
+- ECE 8823 Convex Optimization
+
+
+== Numerical Methods
+
+- MATH 6640 Numerical Methods for Partial Differential Equations
+
+- MATH 6643 Numerical Linear Algebra
+
+- MATH 6644 Iterative Methods for System of Equations
+
+
+== Scientific Computing
+
+- CSE 6220 High Performance Computing
+
+- CSE 8803 Advanced Scientific Computing
+
+== Machine Learning
+
+- CSE 6240 Web Search & Text Mining
+
+- CSE 6740 Computational Data Analysis (Machine Learning)
+
+== Algorithms
+
+- CSE 6140 Computational Science & Engineering Algorithms
+
+#- CS 7520 Approximation Algorithms
+
+- CS 7540 Spectral Algorithms
+
+- [https://santoshv.github.io/contalgos.html CS 8803 Continuous Algorithms]
+
+== Signal Processing
+
+- MATH 8803 Mathematical Introduction to Compressive Sensing
+
+- CEE 8813 Advanced Data Analysis for Engineers (Fourier Analysis and Wavelets)
+
+== Structral Engineering
+
+- CEE 4550 Structural Analysis II
+
+- CEE 6510 Structural Dynamics
+
+- CEE 6551 Strength of Materials
+
+== Others
+
+- CS 6476 Computer Vision
+
+- ISYE 6761 Stochastic Processes I
+
+- ISYE 6762 Stochastic Processes II
+
+- ISYE 6645 Monte Carlo Methods
+
+- MATH 4318 Analysis II
+ 
+- MATH 8803 High Dimensional Geometry & Probability
+
+- AE 8803 Optimal Transport Theory and Applications
+
+#=== Deep Learning from (deeplearning.ai)
+
+#- [https://www.coursera.org/account/accomplishments/certificate/Q5DSBAVUN4BE Neural Networks and Deep Learning ]
+
+
+#== At University of Oklahoma
+
+#- ECE 5583/TCOM 5583  Information Thoery
+
+
