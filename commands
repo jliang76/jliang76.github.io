@@ -1,6 +1,6 @@
 cd 'Dropbox (GaTech)/Personal/GeorgiaTech/Fall 2018/jemdoc/jemdoc-tutorial-master/'
 
-cd 'Dropbox (GaTech)/Personal/GeorgiaTech/Fall 2018/jemdoc/jemdoc-tutorial-master/'
+cd 'Dropbox (Personal)/jliang76.github.io/'
 
 python2.7 jemdoc.py publication.jemdoc
 
