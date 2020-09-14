@@ -18,12 +18,13 @@ Email: firstname DOT lastname AT gatech DOT edu \n
 ~~~
 
 == Short Bio 
-Jiaming is a third-year Ph.D. student in Operations Research at Georagia Tech, under the supervision of [https://www2.isye.gatech.edu/~monteiro/ Prof. Renato D. C. Monteiro]. He holds a master's degree in computational science and engineering. As an undergrad, he studied ocean engineering and applied math in Shanghai Jiao Tong University, where he worked on applications of the [https://en.wikipedia.org/wiki/Homotopy_analysis_method homotopy analysis method] with [http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=20&info_id=93&flag=2 Prof. Zhiliang Lin].
+Jiaming is a fourth-year Ph.D. student in Operations Research at Georagia Tech, under the supervision of [https://www2.isye.gatech.edu/~monteiro/ Prof. Renato D. C. Monteiro]. He holds a master's degree in computational science and engineering. As an undergrad, he studied ocean engineering and applied math in Shanghai Jiao Tong University, where he worked on applications of the [https://en.wikipedia.org/wiki/Homotopy_analysis_method homotopy analysis method] with [http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=20&info_id=93&flag=2 Prof. Zhiliang Lin].
 == Research Interests 
 His primary research goal is to design, analyze and implement fast algorithms for solving a general class of optimization problems. His research interests broadly include topics in optimization and algorithms, such as
 - Convex and Nonconvex Optimization
-- Convex Geometry
-- Numerical Methods 
+- Nonsmooth Optimization
+- Foundation of Data Science
+- Sampling Algorithms
 == News
 - A new paper [https://arxiv.org/abs/2003.11457 "A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes"] 
 - [http://arc.gatech.edu/hg/item/630228 ARC-TRIAD Fellowship], Georgia Tech. Algorithms & Randomness Center supports competitive research projects put forth by graduate students. 
