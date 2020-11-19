@@ -26,6 +26,7 @@ His primary research goal is to design, analyze and implement fast algorithms fo
 - Foundation of Data Science
 - Sampling Algorithms
 == News
+- A new paper [https://ieeexplore.ieee.org/document/9261620 "Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making"] has been accepted by IEEE Control Systems Letters.
 - Workshop submission "A FISTA-type average curvature accelerated composite gradient method for nonconvex optimization problems" has been accepted by [https://opt-ml.org/index.html the 12th OPT Workshop on Optimization for Machine Learning (OPT2020)].
 - The paper [https://arxiv.org/pdf/1909.04248.pdf "An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems"] has been accepted by SIAM Journal on Optimization.
 - [http://ideas.gatech.edu/ideas-triad-research-scholarships-phd-students-and-postdocs IDEaS-TRIAD Research Scholarship], Georgia Tech. The Institute for Data Engineering and Science (IDEaS) and Transdisciplinary Research Institute for Advancing Data Science (TRIAD) provide scholarships to support Ph.D. students or post-doctoral researchers in high-impact cross-disciplinary data science related areas.
