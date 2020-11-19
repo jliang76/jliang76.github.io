@@ -3,6 +3,8 @@
 #[https://scholar.google.com/citations?user=tZs2WzcAAAAJ&hl=en \[Google Scholar\]]
 
 - Preprints
+-- Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making [https://ieeexplore.ieee.org/document/9261620 \[pdf\]] \n
+*Jiaming Liang*, Stefano Di Cairano and Rien Quirynen
 -- A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes [https://arxiv.org/pdf/2003.11457.pdf \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, arXiv:2003.11457, 2020
 -- An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems [https://arxiv.org/pdf/1909.04248.pdf \[pdf\]] \n
