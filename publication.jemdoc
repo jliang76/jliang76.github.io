@@ -13,19 +13,20 @@
 - Journal Papers
 -- An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems [https://epubs.siam.org/doi/abs/10.1137/19M1294277 \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, SIAM Journal on Optimization, 31(1):217-241, 2021
-
 -- Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making [https://ieeexplore.ieee.org/document/9261620 \[pdf\]] \n
 *Jiaming Liang*, Stefano Di Cairano and Rien Quirynen, IEEE Control Systems Letters, 5(4):1417-1422, 2020
-
 -- Stability analysis for periodic solutions of the van der pol–duffing forced oscillator [./publication/Stability.pdf \[pdf\]]\n
 Jifeng Cui, *Jiaming Liang* and Zhiliang Lin, Physica Scripta, 91(1):015201, 2015
 
 - Conference Papers
 -- Ship roll behaviour in large amplitude beam waves [./publication/OMAE2015-41802.pdf \[pdf\]]\n
 *Jiaming Liang* and Zhiliang Lin, International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2015)
+-- A FISTA-type average curvature accelerated composite gradient method for nonconvex optimization problems [./publication/AC-FISTA.pdf \[pdf\]]\n
+*Jiaming Liang* and Renato D.C. Monteiro, 12th OPT Workshop on Optimization for Machine Learning (OPT2020)
 
 - Patents
 -- Yaowen Li and *Jiaming Liang*. Spatial resolution of a DTS system by impulse response deconvolution and optimization, Filed
+-- *Jiaming Liang*, Stefano Di Cairano, and Rien Quirynen. Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making, Filed
 
 #- Posters
 #-- MALTASE: a Mobile AppLication To improve patients’ Access to their data Sharing preferencE \n
