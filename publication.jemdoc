@@ -6,7 +6,7 @@
 -- A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes [https://arxiv.org/pdf/2003.11457.pdf \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, arXiv:2003.11457, 2020
 -- A FISTA-type accelerated gradient algorithm for solving smooth nonconvex composite optimization problems [https://arxiv.org/pdf/1905.07010.pdf \[pdf\]] \n
-*Jiaming Liang*, Renato D.C. Monteiro and Chee-Khian Sim, arXiv:1905.07010, 2019
+*Jiaming Liang*, Renato D.C. Monteiro and Chee-Khian Sim, To appear in Computational Optimization and Applications, 2019
 -- A Doubly Accelerated Inexact Proximal Point Method for Nonconvex Composite Optimization Problems [https://arxiv.org/pdf/1811.11378.pdf \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, arXiv:1811.11378, 2018
 
