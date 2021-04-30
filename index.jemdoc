@@ -26,11 +26,12 @@ His primary research goal is to design, analyze and implement fast algorithms fo
 - Foundation of Data Science
 - Sampling Algorithms
 == News
+- The paper [https://arxiv.org/abs/1905.07010 "A FISTA-type accelerated gradient algorithm for solving smooth nonconvex composite optimization problems"] has been accepted for publication in Computational Optimization and Applications.
 - The paper [https://epubs.siam.org/doi/abs/10.1137/19M1294277 "An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems"] has been published in SIAM Journal on Optimization.
 - A new paper [https://ieeexplore.ieee.org/document/9261620 "Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making"] has been published in IEEE Control Systems Letters.
 - Workshop submission [https://opt-ml.org/papers/2020/paper_79.pdf "A FISTA-type average curvature accelerated composite gradient method for nonconvex optimization problems"] has been accepted by [https://opt-ml.org/index.html the 12th OPT Workshop on Optimization for Machine Learning (OPT2020)].
 - [http://ideas.gatech.edu/ideas-triad-research-scholarships-phd-students-and-postdocs IDEaS-TRIAD Research Scholarship], Georgia Tech. The Institute for Data Engineering and Science (IDEaS) and Transdisciplinary Research Institute for Advancing Data Science (TRIAD) provide scholarships to support Ph.D. students or post-doctoral researchers in high-impact cross-disciplinary data science related areas.
-- A new paper [https://arxiv.org/abs/2003.11457 "A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes"].
+#- A new paper [https://arxiv.org/abs/2003.11457 "A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes"].
 #- [http://arc.gatech.edu/hg/item/630228 ARC-TRIAD Fellowship], Georgia Tech. Algorithms & Randomness Center supports competitive research projects put forth by graduate students. 
 == Education 
 - Ph.D. Candidate, Operations Research, Georgia Tech, Atlanta, GA, 2017 - Present
