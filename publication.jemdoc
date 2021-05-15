@@ -3,14 +3,16 @@
 #[https://scholar.google.com/citations?user=tZs2WzcAAAAJ&hl=en \[Google Scholar\]]
 
 - Preprints
+-- Average Curvature FISTA for Nonconvex Smooth Composite Optimization Problems [https://arxiv.org/pdf/2105.06436.pdf \[pdf\]] \n
+*Jiaming Liang* and Renato D.C. Monteiro, arXiv:2105.06436, 2021
 -- A proximal bundle variant with optimal iteration-complexity for a large range of prox stepsizes [https://arxiv.org/pdf/2003.11457.pdf \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, arXiv:2003.11457, 2020
--- A FISTA-type accelerated gradient algorithm for solving smooth nonconvex composite optimization problems [https://arxiv.org/pdf/1905.07010.pdf \[pdf\]] \n
-*Jiaming Liang*, Renato D.C. Monteiro and Chee-Khian Sim, To appear in Computational Optimization and Applications, 2019
 -- A Doubly Accelerated Inexact Proximal Point Method for Nonconvex Composite Optimization Problems [https://arxiv.org/pdf/1811.11378.pdf \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, arXiv:1811.11378, 2018
 
 - Journal Papers
+-- A FISTA-type accelerated gradient algorithm for solving smooth nonconvex composite optimization problems [https://link.springer.com/epdf/10.1007/s10589-021-00280-9?sharing_token=jWhqGVdrWlieIFMNCeRxeve4RwlQNchNByi7wbcMAY6byWFSR_E_gR4JKKhLUbarJcfPsBBjOAUuT04_zMD3EMXmicUTl7Ulv0Tl8wW1IWGakQveee-nfa_B9Ebd-bijTXafyjqkY3maeUwqrLtnCwehigO6ErbOYzlui3koIgc%3D \[pdf\]] \n
+*Jiaming Liang*, Renato D.C. Monteiro and Chee-Khian Sim, Computational Optimization and Applications, 2021
 -- An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems [https://epubs.siam.org/doi/abs/10.1137/19M1294277 \[pdf\]] \n
 *Jiaming Liang* and Renato D.C. Monteiro, SIAM Journal on Optimization, 31(1):217-241, 2021
 -- Early Termination of Convex QP Solvers in Mixed-Integer Programming for Real-Time Decision Making [https://ieeexplore.ieee.org/document/9261620 \[pdf\]] \n
@@ -19,10 +21,10 @@
 Jifeng Cui, *Jiaming Liang* and Zhiliang Lin, Physica Scripta, 91(1):015201, 2015
 
 - Conference Papers
--- Ship roll behaviour in large amplitude beam waves [./publication/OMAE2015-41802.pdf \[pdf\]]\n
-*Jiaming Liang* and Zhiliang Lin, International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2015)
 -- A FISTA-type average curvature accelerated composite gradient method for nonconvex optimization problems [./publication/AC-FISTA.pdf \[pdf\]]\n
 *Jiaming Liang* and Renato D.C. Monteiro, 12th OPT Workshop on Optimization for Machine Learning (OPT2020)
+-- Ship roll behaviour in large amplitude beam waves [./publication/OMAE2015-41802.pdf \[pdf\]]\n
+*Jiaming Liang* and Zhiliang Lin, International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2015)
 
 - Patents
 -- Yaowen Li and *Jiaming Liang*. Spatial resolution of a DTS system by impulse response deconvolution and optimization, Filed
